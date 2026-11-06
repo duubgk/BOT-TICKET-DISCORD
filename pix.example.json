@@ -1,0 +1,14 @@
+{
+  "principal": {
+    "rotulo": "Pix principal",
+    "chave": "sua-chave-pix-aqui (e-mail, telefone com +55, CPF ou chave aleatória)",
+    "nome": "NOME DE QUEM RECEBE",
+    "cidade": "SAO PAULO"
+  },
+  "reserva": {
+    "rotulo": "Pix reserva",
+    "chave": "outra-chave-pix-aqui",
+    "nome": "NOME DE QUEM RECEBE",
+    "cidade": "SAO PAULO"
+  }
+}

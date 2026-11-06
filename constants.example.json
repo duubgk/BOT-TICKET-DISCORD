@@ -1,0 +1,40 @@
+{
+  "colors": {
+    "default": "#2B2D31"
+  },
+  "botIds": {
+    "guildId": "SEU_GUILD_ID",
+    "staffRoleId": "ROLE_STAFF",
+    "ticketPingRoleId": "ROLE_TICKET_PING",
+    "categories": {
+      "robux": "CATEGORIA_ROBUX",
+      "bladeBall": "CATEGORIA_BLADE_BALL",
+      "mm2": "CATEGORIA_MM2",
+      "vendaNos": "CATEGORIA_VENDA_NOS",
+      "encomenda": "CATEGORIA_ENCOMENDA",
+      "outros": "CATEGORIA_OUTROS"
+    },
+    "channels": {
+      "duvidas": "CANAL_DUVIDAS",
+      "precos1": "CANAL_PRECOS_1",
+      "precos2": "CANAL_PRECOS_2",
+      "feedback": "CANAL_FEEDBACK",
+      "thanks": "CANAL_AGRADECIMENTO",
+      "entregas": "CANAL_ENTREGAS",
+      "logs": "CANAL_LOGS",
+      "transcripts": "CANAL_TRANSCRIPTS",
+      "calculadora": "CANAL_DA_CALCULADORA (opcional)"
+    },
+    "emojis": {
+      "robux": "EMOJI_ROBUX",
+      "blade": "EMOJI_BLADE",
+      "caixa": "EMOJI_CAIXA",
+      "dinheiro": "EMOJI_DINHEIRO",
+      "lupa": "EMOJI_LUPA",
+      "estrela": "EMOJI_ESTRELA",
+      "ty": "EMOJI_TY",
+      "caixa1": "EMOJI_CAIXA_1",
+      "entrega1": "EMOJI_ENTREGA_1"
+    }
+  }
+}
